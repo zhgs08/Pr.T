@@ -1,0 +1,2 @@
+\\psf\home\documents\visual studio 2015\Projects\Class Students\Class Students\bin\Debug\Class Students.exe.config
+\\psf\Home\Desktop\Gaukhar\Class Students\Class Students\bin\Debug\Class Students.exe.config
