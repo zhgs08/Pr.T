@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2015\Projects\Lab2-additional\Lab2-additional\bin\Debug\Lab2-additional.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Lab2-additional\Lab2-additional\bin\Debug\Lab2-additional.exe
+\\psf\home\documents\visual studio 2015\Projects\Lab2-additional\Lab2-additional\bin\Debug\Lab2-additional.pdb
+\\psf\home\documents\visual studio 2015\Projects\Lab2-additional\Lab2-additional\obj\Debug\Lab2-additional.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\Lab2-additional\Lab2-additional\obj\Debug\Lab2-additional.exe
+\\psf\home\documents\visual studio 2015\Projects\Lab2-additional\Lab2-additional\obj\Debug\Lab2-additional.pdb
