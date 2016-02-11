@@ -1,0 +1,2 @@
+\\psf\home\documents\visual studio 2015\Projects\Lab2-3\Lab2-3\bin\Debug\Lab2-3.exe.config
+\\psf\home\documents\visual studio 2015\Projects\Lab2-3\Lab2-3\obj\Debug\Lab2-3.csprojResolveAssemblyReference.cache
