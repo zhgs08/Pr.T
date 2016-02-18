@@ -1,0 +1,6 @@
+\\psf\Home\Desktop\Gaukhar\Lab3\SnakeGame\bin\Debug\SnakeGame.exe.config
+\\psf\Home\Desktop\Gaukhar\Lab3\SnakeGame\bin\Debug\SnakeGame.exe
+\\psf\Home\Desktop\Gaukhar\Lab3\SnakeGame\bin\Debug\SnakeGame.pdb
+\\psf\Home\Desktop\Gaukhar\Lab3\SnakeGame\obj\Debug\SnakeGame.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Gaukhar\Lab3\SnakeGame\obj\Debug\SnakeGame.exe
+\\psf\Home\Desktop\Gaukhar\Lab3\SnakeGame\obj\Debug\SnakeGame.pdb
